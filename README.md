@@ -45,7 +45,7 @@ resume-html/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/imshashwatsingh/resume-html.git
+   git clone https://github.com/shashwatttnwork1.git
    ```
 
 2. Navigate to the project folder:
