@@ -45,14 +45,14 @@ resume-html/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shashwatttnwork1.git
+   git clone https://github.com/shashwatttn/work1.git
    ```
 
 2. Navigate to the project folder:
 
     ```bash
-    cd resume-html
+    cd work1
     ```
 
 3. Live preview:
-   - Open `index.html` in your web browser to view the resume.
+   - Open https://shashwatttn.github.io/work1/ in your web browser to view the resume.
